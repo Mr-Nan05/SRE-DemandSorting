@@ -1,0 +1,4 @@
+Xcore not known to List of Projects
+Java editor wrong line number display area and refreshing behavior
+In debug preview of state variable is not showing after update SO Big sur
+Background for 'always show at startup' on macOS has wrong background

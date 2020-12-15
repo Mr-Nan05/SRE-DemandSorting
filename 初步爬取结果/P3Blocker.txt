@@ -1,0 +1,5 @@
+aspectj-maven-plugin is not compatible with jdk 11
+latest eclipse c/c++ on mac, does not resolve std/boost symbol, previous version work perfectly
+WTP Builds with UI tests failing on HIPP10
+Access to GitHub Secrets Required
+A java process is started with 300% CPU

@@ -1,0 +1,1 @@
+Gerrit / jgit protocol version 2 broken since Gerrit 3.2.5

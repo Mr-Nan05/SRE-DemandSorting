@@ -1,0 +1,198 @@
+[unfolded subapp] layouter problems
+ECC Problems caused by deleting a transition
+struct types do not work for local variables in algorithms
+No DirectEdit for ECC Transitions
+Tooltip is not updating, after editing comment in the properties section.
+Editing should not be possible in viewer section
+Multiple VirtualIO Elements
+Move to Parent with Drag and Drop
+open62514 v1.1 changes connection status API
+Modbus support doesn't compile anymore
+Forte CMake error for BachmannM1 architecture
+Move to Parent results in NPE
+Extend Connection Constraints to valid ANY compatibility rules (1131 implicit casts)
+Change location of layout and reset to menu entries
+VABModelMap are equal if one MapEntry is equal
+Workflow tasks cannot run in a headless Eclipse
+[feature] add support for custom icons for symbols by lsp plugins
+duplicate entries in open declaration (F3 and CTRL click)
+TimoutException on HyperlinkDetector, especially when just opening the file
+[Robotics] C++ code of skill realizations not generated for imported component definition models
+[Robotics] RoboticsContentProvider generates a NPE when built using a IStructuredContentProvider
+[UML][CDO] Use R5_5_maintenance branch for UML2 CDO-ification
+How to modify UML element programmatically
+How to customize the model explorer from profile
+Arrange selection of action nodes within an activity diagram does not respect surrounding activity compartment
+get-preferences-menu | click run into timeout
+xsd2ttcn creates cyclical definitions
+DelayUpdatePropagation() can result in slowdown
+Unfolded Subapp: size calculation of contained network
+connection creation should show hover feedback on connectable targets
+Turn Virtual DNS view into an editor
+Reduce Jitter and Overhead of Timerhandler
+connection linestyle refresh issue
+value null for data inputs of subapps
+drawing area (canvas): positioning
+Harmonizce connection section in pin property sheet
+Create Error Markers for Connections Missing End-Points
+Mark AJTemplateCompletionProcessor as not requiring UI thread
+[Passage][operator] error on creating top-level aggregators
+BIRT Reports Failing - LAS Asset Lookup
+Birt Report Viewer With external Service
+Visualization of trust boundaries
+Special characters handling in search index
+Switch to EPL 2.0
+Switch to EPL 2.0
+Switch to EPL 2.0
+Switch to EPL-2.0
+Update to Capella 5.0
+Impossible to add some available components through Textual Editor in ES
+Locating libstdc++.a/libstdc++.dylib might not work as intended when running a product build
+Serial Terminal can not be opened
+Deprecate non-configuration aware ICDescriptor related code
+Compare-Method in PDOMFile.Finder treats empty significant macros and null significant macros differently
+Conflicting handlers for org.eclipse.ltk.ui.refactoring commands
+Launchbar icons look blurred on hidpi
+The color of the updating value will not change to red in the traditional memory render
+Debug framework should provide way to report unit test results to the generic "test report" view
+Autocomplete doesn't complete __func__
+[Feature request] Autocomplete catch block when closing try block bracket.
+Index source files not included in the build option is not persisted after eclipse restart
+Fail to refactor macros corrently
+Ask users for their Github ID on account creation
+Please upgrade the node version on the ecd.theia CI agents
+ECP CI: Agent went offline during the build
+Nexus staging repos are split - maybe because of changing IPs
+Describe the relationship between Eclipse projects and working groups
+DTP Master build
+datatools repo does not provide net.sourceforge.lpg.lpgjavaruntime dependency
+Pull single file in Synchronize-View
+Newly imported eclipse project is marked as dirty but no real change
+Git clone or commit reports symlinks permanently as modified
+Flickering during build / update
+[Passage] implement license grant acquire/release for Local conditions
+[Passage] - add license metadata viewer for LDC
+[Passage][Floating[Server] persist grant acquisition state
+[Passage][Floating[Server] design a way for an admin to interact with the server
+[Passage] Passage interface test coverage
+InterruptedException when deactivating Lifecycle
+[release] technology.skills 0.1.0
+[release] technology.lyo 4.0.0
+[release] tools.cdt 10.1.0
+[release] ee4j.glassfish 6.0.0
+[release] polarsys.capella 5.0.0
+[release] technology.microprofile 2.0 (Config)
+[release] iot.embed-cdt 6.0.0
+[release] ee4j.grizzly 3.0.0
+[release] ee4j.openmq 6.0.0
+[release] technology.microprofile 3.0 (Health)
+[release] ee4j.mvc 2.0.0
+[release] ee4j.krazo 2.0.0
+[release] ee4j.grizzly 2.0.0 (NPM)
+[release] ee4j.glassfish 2.0.0 (Shoal)
+[release] modeling.viatra 2.5.0
+[release] modeling.emf.cdo 4.12.0
+[release] technology.packaging.mpc 1.9.0
+[release] technology.nebula.nattable 2.0.0
+[release] technology.microprofile 3.0 (Metrics)
+[release] modeling.emf.mwe 2.12.1
+[release] modeling.tmf.xtext 2.25.0
+[release] modeling.emf.diffmerge 0.13.0
+[release] technology.simopenpass 0.7.0
+?
+Update URL should point to https, not http
+! No se puede ejecutar "C:\Users\leome\AppData\Local\Temp\Rar$EXa7484.46356\eclipse\eclipse.exe"
+Error when I open C ide.
+Equinox failing to find the framework when the path contains a "#" character
+Build Eclipse launcher with macOS 10.14 SDK
+inconsistencies of how aarch64 is displayed in the download pages
+Create an Eclipse IDE 2020-12 landing page
+"GitHub Username" field is treated as username field by browser
+Freeze of some PolarSys forums
+[16] IllegalArgumentException thrown when source level set at 16
+[null] Also consider assertNotNull by JUnit 5 in null analysis
+Cannot infer type arguments error message instead of the real error message
+Type inference problem using diamond operator
+InfixExpression.setOperator(...) throws IllegalArgumentException
+[compiler][resource] Potential resource leak flagged twice for unassigned case
+[16] sealed - Investigate the possibility of separate error messages for classes and interfaces
+Types#contains not implemented
+Java 16 work in 4.19
+Use JVM memory structures in JDT core
+Internal compiler error: ExceptionLabel
+When using a switch case inside a lambda, if missing a semi-colon on a line before the switch, it will throw errors and if tab is closed can't be opened again.
+Eclipse cannot infer type arguments when using diamond
+Use assertSortedResults in JavadocTypeCompletionModelTest
+[16]JEP 390: Warnings for Value-Based Classes
+[16] JEP 396: Strongly Encapsulate JDK Internals by Default
+[16] Promote the relevant features from preview to standard
+Support custom formatting options at file granularity for use by jdt.ls
+Chinese indentation in Java doc
+[formatter] Put ( on separate line from try
+[formatter] Align Parameters in Columns
+lines' locations are changing when code mining is enabled
+[code mining] Make method parameter annotations less "jumpy"
+Module based app. No tests found with test runner 'JUnit 5'
+[quickfix] performance tests missing
+[content assist] should be able to correct spelling mistakes
+[content assist] add support for embedding
+[content assist] list/generic resolution should be better
+[content assist] unimported container confuses generic completion
+performance test are failing
+Result of Source->Find broken externalized Strings is broken project
+Remove broken externalized strings
+[syntax highlighting] String disappear due to parsing problems of json in long lines?
+Migrate junit tests from junit 3 to junit 4
+Bad error message if @Before method is private
+In some cases we should use final field variables
+org.eclipse.jgit.pgm shows error with import org.eclipse.jgit.archive.ArchiveFormats;
+How to add hunk (type Edit) to staging area (index)
+PackInvalidException when fetch and repack run concurrently
+[Validation] JSP validation is incorrectly warning about <div> tags shouldn't be inside <a> tags in HTML5.
+Upgrade jst.ws to JAXB 2.3.3
+[15] [javadoc] compiler error reporting support for module in @see, @link and @linkplain javadoc tags.
+[docgen] Erroneous links in ecore documentation
+Retire outdated Git repositories
+Inconsistent JDT indexer task dispatching
+"Toggle Tracepoint" creates usual breakpoints on class files
+N&N for 4.18
+Resource folder not added to classpath if directory is project basedir and valid exclude is defined
+prepare new release for 2020-12
+"Connector install wizard" runs even though plugin execution is set to ignore
+[15] explicit permit clause is not enforced inside the same compilation unit
+[15][test] port EnumTest for local enums
+Anonymous class LambdaForm$DMH is wrongly considered to be a GC root
+(Eclipse Memory Analyzer:46625): Gtk-WARNING **: 09:54:38.236: gtk_widget_size_allocate(): attempt to allocate widget with width -112 and height 30
+[15][formatter]  Instanceof does not visit right operand in SpacePre.visit(InstanceofExpression node)  - investigate
+Remove readValues Request for loading axistype and independent flag in chart-viewer-data.service
+Add getSourceName() to BaseApplicationContext
+[cg] Bad type declaration for EList
+[idioms] Use Xtext grammar indexing
+[Model2Doc] The template2structure generator must be able to inherits mappers from another generator
+[Model2Doc] We should be able to select the generated image format in the pdst
+[Designer, transformation] Language field in GeneratorHint is difficult to setup
+[Profile]Definition fails when a Property is typed with a DataType stored in a library file
+[Releng] [Requirements] 2020-06 and -12 compatibility
+UMLDiagnostician.validate does not respect the EMF API
+[Toolsmiths] The "Remove Reexport" quickfix may create invalid Manifest directives
+[Model2Doc] Model2doc should provide a way to add NamedStyles to elements
+[Model2Doc][Docx] Model2Doc should provide a way to merge cells in tables
+[Model2Doc][ODT] Model2Doc should provide a way to merge cells in tables
+[Model2Doc][Docx] The tool should update the documentation with Docx generation
+[Toolsmiths] Papyrus integration of GMF Tooling
+[REFACTORING] Analyse if Alf could be optional
+[PrivacyDesigner] add validation to ensure that process requirement depends of Requirement
+[Model2Doc][Docx] If there is two tables one before the other tables are merged
+[privacyDesigner] add traceability when GDPR requirements are generated
+[Model2Doc] NPE when the tool doesn't find mapper
+Capability transition does not work for involved components/actors and other capability relations
+Search -> Find: Filter Text widget too small on macOS
+Mylyn commons notifications has inconsistent use of jaxb
+Marketplace contains incorrect version of Mylyn
+Mylyn bundles unresolved when launchbar is installed
+Add some additional Batik 1.13.0 bundles
+[Passage][Operatpr] toolbar buttons Products|Users|Licenses are not functional
+[SysML] SysML1.4 shall to be build on java11 VM
+Profile not locked due to exception ... file path too long
+change email address
+change email address

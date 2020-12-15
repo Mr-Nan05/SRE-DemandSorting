@@ -1,0 +1,12 @@
+Add examples of how to save a model+stereotypes
+Provide Installer also for aarch64
+allow for keyword substitution in GIT like in SVN
+Make LDAP authentication available
+[compiler] More Flow Analysis for close() scenarios
+Eclipse couldn't suggest lambda code completion
+Move some jdt docu to wiki where it can be easily edited
+"Toggle Tracepoint" should be in editor ruler and have distinct icon
+[Element Types] Advice binding should be able to target multiple element-types
+[Toolsmiths] Support regeneration of ElementTypesConfiguration models
+Problems during content assist org.eclipse.mylyn.java.ui runtime exception
+Product launches that fail should take me to the launch configuration

@@ -1,0 +1,14 @@
+POSIX implementation of semaphores causes 100% CPU usage
+Invalidated object returned when referencing non-cacheable entity
+APT Classloader doesnt find class in JDK
+JarInJarLoader returns \ for valid jar files
+Internal compiler error: java.lang.NullPointerException at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:3027)
+Gradle error
+[ASTRewrite]  format error when any node inserts in the beginning of block
+Eclipse freeze when invoking type hierarchy for java.lang.Object
+Switch in a property listener
+Cannot launch class if module-info.java is in additional source directory
+[breakpoints] When hitting breakpoint in jar dependency, things get a bit flaky
+"Rerun Test Failures First" doesn't re-Debug
+[Model2Doc][Docx] Management of style from the template (dotx) file should be better
+search field is not properly sized on Mac BigSur
